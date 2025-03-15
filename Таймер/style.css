@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+  }
+  .countdown {
+    font-size: 3em;
+    margin: 20px 0;
+  }
+  .message {
+    font-size: 2em;
+    color: gold;
+  }
+  .snowflake {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    animation: snow 10s linear infinite;
+  }
+  @keyframes snow {
+    0% {
+        top: -10px;
+        opacity: 0.5;
+    }
+    100% {
+        top: 100%;
+        opacity: 1;
+    }
+  }
