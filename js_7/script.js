@@ -83,3 +83,7 @@ const isChecked = true,
       console.log(isChecked || !isClose);
 
 
+let max = ["22","Max"]
+
+console.log(max)
+
