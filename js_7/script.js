@@ -3,7 +3,7 @@
 // snake_case
 // UPPER_SNAKE_CASE
 // Kebab-case
-// PascakClase
+// Pascak
 
 // const arr = ['a','b', 'c'];
 
@@ -36,23 +36,23 @@
 
 
 // const obj = {
-//     Maks: 14,
+//     : 14,
     
 
 // }
 
-// const result = confirm('А ты єтой рукой ещё крестищся' + ':)')
+// const result = confirm('' + ':)')
 
-// const answer = prompt("Cосал ?", "Да");
+// const answer = prompt(" ?", "");
 // console.log(typeof(answer + 5));
 
 // const answers = [];
 
-// answers[0] = prompt('Кто по жизни?', '')
+// answers[0] = prompt('?', '')
 
-// answers[1] = prompt('Чем дишишь?', '')
+// answers[1] = prompt('?', '')
 
-answers[2] = prompt('Кто по масти?', '')
+answers[2] = prompt('?', '')
 
 console.log(typeof(answers));
 console.log(typeof(null));
