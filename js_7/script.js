@@ -81,9 +81,12 @@ const isChecked = true,
       isClose = false;
 
       console.log(isChecked || !isClose);
+<<<<<<< Updated upstream
 
 
 let max = ["22","Max"]
 
 console.log(max)
 
+=======
+>>>>>>> Stashed changes
